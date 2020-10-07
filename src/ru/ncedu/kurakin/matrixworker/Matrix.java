@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Realisation of pojo matrix class
+ *
  * @author Mikhail Kurakin
  */
 public class Matrix {
