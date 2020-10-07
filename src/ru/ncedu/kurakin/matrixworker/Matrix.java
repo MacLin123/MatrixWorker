@@ -1,3 +1,4 @@
+//Copyright Mikhail Kurakin 2020
 package ru.ncedu.kurakin.matrixworker;
 
 import java.util.Arrays;
